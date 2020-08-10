@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Engagement', cursive;
+    color: whitesmoke;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+p {
+    font-family: 'Croissant One', cursive;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+div {
+    display: block;
+    margin-bottom: 8rem;
+    line-height: 2;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+#foot {
+    background-color: #242D40;
+    margin: 0;
+    
+}
+
+#title {
+    background-color: #242D40;
+    background-position: 9rem;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+#list {
+    font-family: 'Croissant One', cursive;
+    font-style: italic;
+    color: white;
+}
